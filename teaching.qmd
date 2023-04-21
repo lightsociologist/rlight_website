@@ -4,18 +4,20 @@ title: "Teaching"
 
 ## Undergraduate Teaching
 
-Social Theory
+Social Theory ([syllabus](sybs/theory_2022.pdf))
 
-Cultural Sociology
+Cultural Sociology ([syllabus](sybs/culture_syllabus_2021.pdf))
 
-Social Networks
+Social Networks ([syllabus](sybs/sn_syllabus_2022.pdf))
 
-Sociology of Science
+Science & Society ([syllabus](sybs/syllabus_2020.pdf))
 
 ## Graduate Teaching
 
-Research Methods
+Research Methods ([syllabus](sybs/grad_methods_2020.pdf))
 
-Social Network Analysis
+Social Network Analysis ([website](https://github.com/lightsociologist/soc613spr2023))
 
-Publishing Seminar\
+Publishing Seminar ([syllabus](sybs/publishing_syb_2021.pdf))
+
+\

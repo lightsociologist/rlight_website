@@ -14,6 +14,15 @@ website:
         file: teaching.qmd
       - text: "About"
         file: about.qmd
+ 
+  page-footer:
+    left: |
+      {{< fa regular copyright >}} Ryan Light, 2023<br>
+      
+    right: |
+      Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)<br>
+      Design and code snippets taken from [this guy.](/posts/quarto-website-migration.html)<br>
+      [Source at {{< fa brands github >}} GitHub](andreashandelwebsite)
 
 format:
   html:

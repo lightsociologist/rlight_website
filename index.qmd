@@ -2,7 +2,7 @@
 title: "Ryan Light"
 about:
   template: trestles
-  image: avatar.jpg
+  image: avatar2.jpeg
   links:
     - icon: google scholar
       text: Google Scholar
