@@ -8,7 +8,7 @@ Light, Ryan and James Moody, editors. 2020. [*The Oxford Handbook of Social Netw
 
 adams, jimi and Ryan Light. Under contract. *Unbounded Science: Integrating Knowledge across Disciplines*. Columbia University Press.
 
-## Refereed Articles
+## Refereed Articles (since 2013)
 
 Weston, Sara J., Ian Shryock, Ryan Light, and Phillip A. Fisher. In Press. "Identifying the number and labels of topics in structural topic modeling analyses: A tutorial." Advances in Methods and Practices in Psychological Science.
 
@@ -22,9 +22,9 @@ Weston, Sara J., Ian Shryock, Ryan Light, and Phillip A. Fisher. In Press. "Iden
 
 [Lievanos, Raoul S., Evans, Clare R., and Ryan Light. 2021. "An Intercategorical Ecology of Lead Exposure: Complex Environmental Health Vulnerabilities in the Flint Water Crisis." International Journal of Environmental Research and Public Health 18:1-24.](publications/lievanos_et_al_2021.pdf)
 
-[adams, jimi, Ryan Light, and Nicholas Theis. 2020. "Moblizing COVID-19 Science" Contexts 19:36-41.](publications/adams_et_al_2020.pdf")
+[adams, jimi, Ryan Light, and Nicholas Theis. 2020. "Moblizing COVID-19 Science" Contexts 19:36-41.](publications/adams_et_al_2020.pdf%22)
 
-[Bellair, Paul E., Ryan Light, and James Sutton. 2019. "Prisoners' Personal Networks in the MonthsPreceding Prison: A Descriptive Portrayal." International Journal of Offender Therapy and ComparativeCriminology 63:383-405.](publications/bellair_light_sutton_2019.pdf")[Light, Ryan and Colin Odden. 2017. "Managing the Boundaries of Taste: Culture, Valuation, andComputational Social Science." Social Forces 96:877-908.](publications/light_odden_2017_post_print.pdf)
+[Bellair, Paul E., Ryan Light, and James Sutton. 2019. "Prisoners' Personal Networks in the MonthsPreceding Prison: A Descriptive Portrayal." International Journal of Offender Therapy and ComparativeCriminology 63:383-405.](publications/bellair_light_sutton_2019.pdf%22)[Light, Ryan and Colin Odden. 2017. "Managing the Boundaries of Taste: Culture, Valuation, andComputational Social Science." Social Forces 96:877-908.](publications/light_odden_2017_post_print.pdf)
 
 [Edelmann, Achim, James Moody, and Ryan Light. 2017. "Disparate Foundations of Scientists' Policy Positions on Contentious Biomedical Research." Proceedings of the National Academy of Sciences 114:6262-6267.](publications/edelmann_et_al.pdf)
 
@@ -34,7 +34,7 @@ Weston, Sara J., Ian Shryock, Ryan Light, and Phillip A. Fisher. In Press. "Iden
 
 [adams, jimi and Ryan Light. 2015. "Scientific Consensus, the Law, and Same Sex Parenting Outcomes." Social Science Research 53:300-310.](publications/adams_light_2015.pdf)
 
-[Light, Ryan. 2015. "Like Strangers We Trust: Identity and Generic Affiliation Networks." Social Science Research 51:132-144.](publications/light_2015.pdf")
+[Light, Ryan. 2015. "Like Strangers We Trust: Identity and Generic Affiliation Networks." Social Science Research 51:132-144.](publications/light_2015.pdf%22)
 
 [jimi adams and Ryan Light. 2014. "Mapping Interdisciplinary Fields: Efficiencies, Gaps & Redundancies in HIV/AIDS Research." PLOS ONE 9(12): e115092.](publications/adams_light_2014.pdf)
 

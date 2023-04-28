@@ -21,7 +21,7 @@ website:
       
     right: |
       Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)<br>
-      Design and code snippets taken from [this guy.](/posts/quarto-website-migration.html)<br>
+      Design and code snippets taken from [this guy.](https://www.andreashandel.com/posts/2022-10-01-hugo-to-quarto-migration/)<br>
       [Source at {{< fa brands github >}} GitHub](https://github.com/lightsociologist/rlight_website)
 
 format:

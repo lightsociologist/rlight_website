@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-I am a sociologist at the University of Oregon researching science, culture, and social networks. I co-edited the recently published \[\*The Oxford Handbook of Social Networks\*\](https://global.oup.com/academic/product/the-oxford-handbook-of-social-networks-9780190251765?cc=us&lang=en&) and co-edit the open access journal \[\*Socius\*\](https://journals.sagepub.com/home/srd).
+I am a sociologist at the University of Oregon researching science, culture, and social networks. I co-edited the recently published [*The Oxford Handbook of Social Networks*]((https://global.oup.com/academic/product/the-oxford-handbook-of-social-networks-9780190251765?cc=us&lang=en&)) and co-edit the open access journal [*Socius*](https://journals.sagepub.com/home/srd).
 
 My current research focuses on the organization of science, including scientific movements, social science, and interdisciplinarity, using social network analysis and computational social science methods. I also study how culture and meaning are structured using network and text analysis. I have a longstanding interest in social network analysis and research methods as well as power and inequality.
 
@@ -10,11 +10,11 @@ I have recently taught undergraduate courses on the sociology of culture, sociol
 
 ## Education
 
-Ohio State University \| Columbus, Ohio
+[Ohio State University](https://www.osu.edu/) \| Columbus, Ohio
 
 PhD in Sociology \| 2009
 
-Kenyon College \| Gambier, Ohio
+[Kenyon College](https://www.kenyon.edu/) \| Gambier, Ohio
 
 B.A in Sociology and English \| 2000
 

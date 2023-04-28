@@ -2,7 +2,7 @@
 title: "Ryan Light"
 about:
   template: trestles
-  image: avatar2.jpeg
+  image: avatar3.jpg
   links:
     - icon: google scholar
       text: Google Scholar
@@ -10,6 +10,9 @@ about:
     - icon: github
       text: Github
       href: https://github.com/lightsociologist
+    - icon: envelope
+      text: Email
+      href: mailto:light@uoregon.edu
 ---
 
 I am an associate professor of sociology at [University of Oregon](https://www.uoregon.edu/). I am the co-editor of [*Socius*](https://journals.sagepub.com/home/srd) and [*The Oxford Handbook of Social Networks*](https://academic.oup.com/edited-volume/34294). My work has appeared in *PNAS*, *Social Forces*, *Annual Review of Sociology*, *Social Networks*, among numerous others. I research and teach courses on social networks, research methods, social theory, as well as culture & science.
