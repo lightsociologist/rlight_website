@@ -10,7 +10,7 @@ adams, jimi and Ryan Light. Under contract. *Unbounded Science: Integrating Know
 
 ## Refereed Articles (since 2013)
 
-Weston, Sara J., Ian Shryock, Ryan Light, and Phillip A. Fisher. In Press. "Identifying the number and labels of topics in structural topic modeling analyses: A tutorial." Advances in Methods and Practices in Psychological Science.
+[Weston, Sara J., Ian Shryock, Ryan Light, and Phillip A. Fisher. In Press. "Identifying the number and labels of topics in structural topic modeling analyses: A tutorial." Advances in Methods and Practices in Psychological Science](https://journals.sagepub.com/doi/full/10.1177/25152459231160105).
 
 [Light, Ryan, Nicholas Theis, Achim Edelmann, James Moody, and Richard York. Forthcoming."Clouding Climate Science: A Comparative Network and Text Analysis of Consensus and Anti-Consensus Scientists." Social Networks](publications/light_et_al_2022_preprint.pdf).
 

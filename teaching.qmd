@@ -14,7 +14,7 @@ Science & Society ([syllabus](sybs/syllabus_2020.pdf))
 
 ## Graduate Teaching
 
-Research Methods ([syllabus](sybs/grad_methods_2020.pdf))
+Research Methods ([syllabus](sybs/grad_methods_2022.pdf))
 
 Social Network Analysis ([website](https://github.com/lightsociologist/soc613spr2023))
 
