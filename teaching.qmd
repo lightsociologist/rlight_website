@@ -12,9 +12,11 @@ Social Networks ([syllabus](sybs/sn_syllabus_2022.pdf))
 
 Science & Society ([syllabus](sybs/syllabus_2020.pdf))
 
+Social Inequality ([syllabus](sybs/207_syllabus_2024.pdf))
+
 ## Graduate Teaching
 
-Research Methods ([syllabus](sybs/grad_methods_2022.pdf))
+Graduate Research Methods ([syllabus](sybs/grad_methods_2023.pdf))
 
 Social Network Analysis ([website](https://github.com/lightsociologist/soc613spr2023))
 
