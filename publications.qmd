@@ -10,9 +10,11 @@ adams, jimi and Ryan Light. Under contract. *Unbounded Science: Integrating Know
 
 ## Refereed Articles (since 2013)
 
-[Weston, Sara J., Ian Shryock, Ryan Light, and Phillip A. Fisher. In Press. "Identifying the number and labels of topics in structural topic modeling analyses: A tutorial." Advances in Methods and Practices in Psychological Science](https://journals.sagepub.com/doi/full/10.1177/25152459231160105).
+[Theis, Nicholas and Ryan Light. 2024. “Surveying the Landscape of Environmental Social Science:A Bibliometric and Network Analysis." Environmental Research Communications 6:061003. https://doi.org/10.1088/2515-7620/ad495d](https://iopscience.iop.org/article/10.1088/2515-7620/ad495d/meta).
 
-[Light, Ryan, Nicholas Theis, Achim Edelmann, James Moody, and Richard York. Forthcoming."Clouding Climate Science: A Comparative Network and Text Analysis of Consensus and Anti-Consensus Scientists." Social Networks](publications/light_et_al_2022_preprint.pdf).
+[Weston, Sara J., Ian Shryock, Ryan Light, and Phillip A. Fisher. 2023. "Identifying the number and labels of topics in structural topic modeling analyses: A tutorial." Advances in Methods and Practices in Psychological Science. https://doi.org/10.1177/25152459231160105](https://journals.sagepub.com/doi/full/10.1177/25152459231160105).
+
+[Light, Ryan, Nicholas Theis, Achim Edelmann, James Moody, and Richard York. 2023. “Clouding Climate Science: A Comparative Network and Text Analysis of Consensus and Anti-Consensus Scientists.” Social Networks. 75:148-158. https://doi.org/10.1016/j.socnet.2021.11.007](publications/light_et_al_2022_preprint.pdf).
 
 [Hanson, Kenneth R., CJ Pascoe, and Ryan Light. 2023. "It's Getting Difficult to Be a Straight WhiteMan": Bundled Masculinity Grievances on Reddit." Sex Roles 88:169-186.](publications/hanson_pascoe_light_2023.pdf)
 
