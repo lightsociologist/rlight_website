@@ -156,8 +156,7 @@ ul.task-list li input[type="checkbox"] {
 <p><a href="https://journals.sagepub.com/doi/full/10.1177/25152459231160105">Weston, Sara J., Ian Shryock, Ryan Light, and Phillip A. Fisher. 2023. “Identifying the number and labels of topics in structural topic modeling analyses: A tutorial.” Advances in Methods and Practices in Psychological Science. https://doi.org/10.1177/25152459231160105</a>.</p>
 <p><a href="publications/light_et_al_2022_preprint.pdf">Light, Ryan, Nicholas Theis, Achim Edelmann, James Moody, and Richard York. 2023. “Clouding Climate Science: A Comparative Network and Text Analysis of Consensus and Anti-Consensus Scientists.” Social Networks. 75:148-158. https://doi.org/10.1016/j.socnet.2021.11.007</a>.</p>
 <p><a href="publications/hanson_pascoe_light_2023.pdf">Hanson, Kenneth R., CJ Pascoe, and Ryan Light. 2023. “It’s Getting Difficult to Be a Straight WhiteMan”: Bundled Masculinity Grievances on Reddit.” Sex Roles 88:169-186.</a></p>
-<p><a href="publications/light_et_al_2022_preprint.pdf">Light, Ryan, Nicholas Theis, Achim Edelmann, James Moody, and Richard York. Forthcoming.”Clouding Climate Science: A Comparative Network and Text Analysis of Consensus and Anti-Consensus Scientists.” Social Networks</a>.</p>
-<p><a href="publications/moody_edelmann_light_2022.pdf">Moody, James, Achim Edelmann, and Ryan Light. 2022. “100 years of Social Forces as Seen through Bibliometric Publication Patterns.” *Social Forces* 101:38-75.</a></p>
+<p><a href="publications/moody_edelmann_light_2022.pdf">Moody, James, Achim Edelmann, and Ryan Light. 2022. “100 years of Social Forces as Seen through Bibliometric Publication Patterns.” Social Forces 101:38-75.</a></p>
 <p><a href="publications/lievanos_et_al_2021.pdf">Lievanos, Raoul S., Evans, Clare R., and Ryan Light. 2021. “An Intercategorical Ecology of Lead Exposure: Complex Environmental Health Vulnerabilities in the Flint Water Crisis.” International Journal of Environmental Research and Public Health 18:1-24.</a></p>
 <p><a href="publications/adams_et_al_2020.pdf&quot;">adams, jimi, Ryan Light, and Nicholas Theis. 2020. “Moblizing COVID-19 Science” Contexts 19:36-41.</a></p>
 <p><a href="publications/bellair_light_sutton_2019.pdf&quot;">Bellair, Paul E., Ryan Light, and James Sutton. 2019. “Prisoners’ Personal Networks in the MonthsPreceding Prison: A Descriptive Portrayal.” International Journal of Offender Therapy and ComparativeCriminology 63:383-405.</a><a href="publications/light_odden_2017_post_print.pdf">Light, Ryan and Colin Odden. 2017. “Managing the Boundaries of Taste: Culture, Valuation, andComputational Social Science.” Social Forces 96:877-908.</a></p>
@@ -255,7 +254,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/ryanlight\.netlify\.app");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

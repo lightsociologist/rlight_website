@@ -145,19 +145,20 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<p>Here are descriptions and syllabuses for courses that I have taught in the past 5 years or so. If you would like any additional resources from these classes, feel free to contact me. I am happy to share.</p>
 <section id="undergraduate-teaching" class="level2">
 <h2 class="anchored" data-anchor-id="undergraduate-teaching">Undergraduate Teaching</h2>
-<p>Social Theory (<a href="sybs/theory_2022.pdf">syllabus</a>)</p>
-<p>Cultural Sociology (<a href="sybs/culture_syllabus_2021.pdf">syllabus</a>)</p>
-<p>Social Networks (<a href="sybs/sn_syllabus_2022.pdf">syllabus</a>)</p>
-<p>Science &amp; Society (<a href="sybs/syllabus_2020.pdf">syllabus</a>)</p>
-<p>Social Inequality (<a href="sybs/207_syllabus_2024.pdf">syllabus</a>)</p>
+<p><strong>Social Theory</strong> (<a href="sybs/theory_2022.pdf">social theory syllabus</a>): This class is a general overview of social theory. Several years ago I began moving beyond teaching the class from the traditional historical perspective and now include empirical examples of good contemporary theorizing.</p>
+<p><strong>Cultural Sociology</strong> (<a href="sybs/culture_syllabus_2021.pdf">cultural sociology syllabus</a>): This class is a overview of cultural sociology with a focus on making and consuming culture. I also try to introduce students to long form creative nonfiction in this course.</p>
+<p><strong>Social Networks</strong> (<a href="sybs/sn_syllabus_2022.pdf">social networks syllabus</a>): This class is an undergraduate course on social network analysis that focuses on several main ideas in the field. We use Gephi to try to reduce barriers to entry.</p>
+<p><strong>Science &amp; Society</strong> (<a href="sybs/syllabus_2020.pdf">science &amp; society syllabus</a>): My first sociology class was a class on “Science &amp; Society” taught by George McCarthy at Kenyon College. It changed my life in a very literal sense and this class is an homage to that one and to Mac.</p>
+<p><strong>Social Inequality</strong> (<a href="sybs/207_syllabus_2024.pdf">social inequality syllabus</a>): This is an introductory course on social inequality that functions as an introduction to sociology as well. The course attempts to identify social scientific tools for understanding inequality with a specific focus on the United States.</p>
 </section>
 <section id="graduate-teaching" class="level2">
 <h2 class="anchored" data-anchor-id="graduate-teaching">Graduate Teaching</h2>
-<p>Graduate Research Methods (<a href="sybs/grad_methods_2023.pdf">syllabus</a>)</p>
-<p>Social Network Analysis (<a href="https://github.com/lightsociologist/soc613spr2023">website</a>)</p>
-<p>Publishing Seminar (<a href="sybs/publishing_syb_2021.pdf">syllabus</a>)</p>
+<p><strong>Graduate Research Methods</strong> (<a href="sybs/grad_methods_2023.pdf">research methods syllabus</a>): This class introduces graduate students to the logic and practice of social science research. It differs from “traditional” methods courses that spend a good deal of time working through specific methods (e.g., surveys, ethnography) and focuses instead on things like developing reading strategies, evaluating research, and understanding the landscape of professional research social science.</p>
+<p><strong>Social Network Analysis</strong> (<a href="https://github.com/lightsociologist/soc613spr2023">sna syllabus and website</a>): This is a hands-on class on social network analysis in R. We read stuff and workshop programming. This class has led to multiple publications, MA theses, and PhD chapters. All of the course materials are freely available on the course website.</p>
+<p><strong>Publishing Seminar</strong> (<a href="sybs/publishing_syb_2021.pdf">publishing seminar syllabus</a>): This is a publication workshop that focuses on bringing a single manuscript to publication.</p>
 <p><br>
 </p>
 
@@ -246,7 +247,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/ryanlight\.netlify\.app");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

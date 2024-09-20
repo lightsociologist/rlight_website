@@ -2,24 +2,26 @@
 title: "Teaching"
 ---
 
+Here are descriptions and syllabuses for courses that I have taught in the past 5 years or so. If you would like any additional resources from these classes, feel free to contact me. I am happy to share.
+
 ## Undergraduate Teaching
 
-Social Theory ([syllabus](sybs/theory_2022.pdf))
+**Social Theory** ([social theory syllabus](sybs/theory_2022.pdf)): This class is a general overview of social theory. Several years ago I began moving beyond teaching the class from the traditional historical perspective and now include empirical examples of good contemporary theorizing.
 
-Cultural Sociology ([syllabus](sybs/culture_syllabus_2021.pdf))
+**Cultural Sociology** ([cultural sociology syllabus](sybs/culture_syllabus_2021.pdf)): This class is a overview of cultural sociology with a focus on making and consuming culture. I also try to introduce students to long form creative nonfiction in this course.
 
-Social Networks ([syllabus](sybs/sn_syllabus_2022.pdf))
+**Social Networks** ([social networks syllabus](sybs/sn_syllabus_2022.pdf)): This class is an undergraduate course on social network analysis that focuses on several main ideas in the field. We use Gephi to try to reduce barriers to entry.
 
-Science & Society ([syllabus](sybs/syllabus_2020.pdf))
+**Science & Society** ([science & society syllabus](sybs/syllabus_2020.pdf)): My first sociology class was a class on "Science & Society" taught by George McCarthy at Kenyon College. It changed my life in a very literal sense and this class is an homage to that one and to Mac.
 
-Social Inequality ([syllabus](sybs/207_syllabus_2024.pdf))
+**Social Inequality** ([social inequality syllabus](sybs/207_syllabus_2024.pdf)): This is an introductory course on social inequality that functions as an introduction to sociology as well. The course attempts to identify social scientific tools for understanding inequality with a specific focus on the United States.
 
 ## Graduate Teaching
 
-Graduate Research Methods ([syllabus](sybs/grad_methods_2023.pdf))
+**Graduate Research Methods** ([research methods syllabus](sybs/grad_methods_2023.pdf)): This class introduces graduate students to the logic and practice of social science research. It differs from "traditional" methods courses that spend a good deal of time working through specific methods (e.g., surveys, ethnography) and focuses instead on things like developing reading strategies, evaluating research, and understanding the landscape of professional research social science.
 
-Social Network Analysis ([website](https://github.com/lightsociologist/soc613spr2023))
+**Social Network Analysis** ([sna syllabus and website](https://github.com/lightsociologist/soc613spr2023)): This is a hands-on class on social network analysis in R. We read stuff and workshop programming. This class has led to multiple publications, MA theses, and PhD chapters. All of the course materials are freely available on the course website.
 
-Publishing Seminar ([syllabus](sybs/publishing_syb_2021.pdf))
+**Publishing Seminar** ([publishing seminar syllabus](sybs/publishing_syb_2021.pdf)): This is a publication workshop that focuses on bringing a single manuscript to publication.
 
 \
