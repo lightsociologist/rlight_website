@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.555">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Ryan Light - Publications</title>
+<title>Publications – Ryan Light</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -85,7 +85,7 @@ ul.task-list li input[type="checkbox"] {
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -104,7 +104,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
-          <div class="quarto-navbar-tools">
+            <div class="quarto-navbar-tools">
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -152,6 +152,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="refereed-articles-since-2013" class="level2">
 <h2 class="anchored" data-anchor-id="refereed-articles-since-2013">Refereed Articles (since 2013)</h2>
+<p><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316913">Light, Ryan, Aaron Gullickson, and Jill Ann Harrison. 2025. “Inequality in measuring scholarly success: Variation in the h-index within and between disciplines.” PLoS ONE 20(1): e0316913. https://doi.org/10.1371/journal.pone.0316913.</a></p>
 <p><a href="https://iopscience.iop.org/article/10.1088/2515-7620/ad495d/meta">Theis, Nicholas and Ryan Light. 2024. “Surveying the Landscape of Environmental Social Science:A Bibliometric and Network Analysis.” Environmental Research Communications 6:061003. https://doi.org/10.1088/2515-7620/ad495d</a>.</p>
 <p><a href="https://journals.sagepub.com/doi/full/10.1177/25152459231160105">Weston, Sara J., Ian Shryock, Ryan Light, and Phillip A. Fisher. 2023. “Identifying the number and labels of topics in structural topic modeling analyses: A tutorial.” Advances in Methods and Practices in Psychological Science. https://doi.org/10.1177/25152459231160105</a>.</p>
 <p><a href="publications/light_et_al_2022_preprint.pdf">Light, Ryan, Nicholas Theis, Achim Edelmann, James Moody, and Richard York. 2023. “Clouding Climate Science: A Comparative Network and Text Analysis of Consensus and Anti-Consensus Scientists.” Social Networks. 75:148-158. https://doi.org/10.1016/j.socnet.2021.11.007</a>.</p>
@@ -160,6 +161,7 @@ ul.task-list li input[type="checkbox"] {
 <p><a href="publications/lievanos_et_al_2021.pdf">Lievanos, Raoul S., Evans, Clare R., and Ryan Light. 2021. “An Intercategorical Ecology of Lead Exposure: Complex Environmental Health Vulnerabilities in the Flint Water Crisis.” International Journal of Environmental Research and Public Health 18:1-24.</a></p>
 <p><a href="publications/adams_et_al_2020.pdf&quot;">adams, jimi, Ryan Light, and Nicholas Theis. 2020. “Moblizing COVID-19 Science” Contexts 19:36-41.</a></p>
 <p><a href="publications/bellair_light_sutton_2019.pdf&quot;">Bellair, Paul E., Ryan Light, and James Sutton. 2019. “Prisoners’ Personal Networks in the MonthsPreceding Prison: A Descriptive Portrayal.” International Journal of Offender Therapy and ComparativeCriminology 63:383-405.</a><a href="publications/light_odden_2017_post_print.pdf">Light, Ryan and Colin Odden. 2017. “Managing the Boundaries of Taste: Culture, Valuation, andComputational Social Science.” Social Forces 96:877-908.</a></p>
+<p><a href="publications/light_odden_2017_post_print.pdf">Light, Ryan and Colin Odden. 2017. “Managing the Boundaries of Taste: Culture, Valuation, and Computational Social Science.” Social Forces 96:877-908.</a></p>
 <p><a href="publications/edelmann_et_al.pdf">Edelmann, Achim, James Moody, and Ryan Light. 2017. “Disparate Foundations of Scientists’ Policy Positions on Contentious Biomedical Research.” Proceedings of the National Academy of Sciences 114:6262-6267.</a></p>
 <p><a href="publications/york_light_2017.pdf">York, Richard and Ryan Light. 2017. “Directional Asymmetry in Sociological Analysis.” Socius 3:1-13.</a></p>
 <p><a href="publications/light_cunningham_2017_preprint.pdf">Light, Ryan and Jeanine Cunningham. 2016. “Oracles of Peace: Topic Modeling, Cultural Opportunity, and the Nobel Prize for Peace, 1902-2012.” Mobilization 21:43:64.</a></p>
@@ -208,18 +210,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -251,7 +242,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp("https:\/\/ryanlight\.netlify\.app");
@@ -259,7 +272,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
@@ -586,7 +599,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p><i class="fa-regular fa-copyright" aria-label="copyright"></i> Ryan Light, 2024<br></p>
+<p><i class="fa-regular fa-copyright" aria-label="copyright"></i> Ryan Light, 2025<br></p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;

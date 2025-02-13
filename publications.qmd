@@ -10,6 +10,8 @@ adams, jimi and Ryan Light. Under contract. *Unbounded Science: Integrating Know
 
 ## Refereed Articles (since 2013)
 
+[Light, Ryan, Aaron Gullickson, and Jill Ann Harrison. 2025. “Inequality in measuring scholarly success: Variation in the h-index within and between disciplines." PLoS ONE 20(1): e0316913. https://doi.org/10.1371/journal.pone.0316913.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316913)
+
 [Theis, Nicholas and Ryan Light. 2024. “Surveying the Landscape of Environmental Social Science:A Bibliometric and Network Analysis." Environmental Research Communications 6:061003. https://doi.org/10.1088/2515-7620/ad495d](https://iopscience.iop.org/article/10.1088/2515-7620/ad495d/meta).
 
 [Weston, Sara J., Ian Shryock, Ryan Light, and Phillip A. Fisher. 2023. "Identifying the number and labels of topics in structural topic modeling analyses: A tutorial." Advances in Methods and Practices in Psychological Science. https://doi.org/10.1177/25152459231160105](https://journals.sagepub.com/doi/full/10.1177/25152459231160105).
@@ -25,6 +27,8 @@ adams, jimi and Ryan Light. Under contract. *Unbounded Science: Integrating Know
 [adams, jimi, Ryan Light, and Nicholas Theis. 2020. "Moblizing COVID-19 Science" Contexts 19:36-41.](publications/adams_et_al_2020.pdf%22)
 
 [Bellair, Paul E., Ryan Light, and James Sutton. 2019. "Prisoners' Personal Networks in the MonthsPreceding Prison: A Descriptive Portrayal." International Journal of Offender Therapy and ComparativeCriminology 63:383-405.](publications/bellair_light_sutton_2019.pdf%22)[Light, Ryan and Colin Odden. 2017. "Managing the Boundaries of Taste: Culture, Valuation, andComputational Social Science." Social Forces 96:877-908.](publications/light_odden_2017_post_print.pdf)
+
+[Light, Ryan and Colin Odden. 2017. “Managing the Boundaries of Taste: Culture, Valuation, and Computational Social Science." Social Forces 96:877-908.](publications/light_odden_2017_post_print.pdf)
 
 [Edelmann, Achim, James Moody, and Ryan Light. 2017. "Disparate Foundations of Scientists' Policy Positions on Contentious Biomedical Research." Proceedings of the National Academy of Sciences 114:6262-6267.](publications/edelmann_et_al.pdf)
 
